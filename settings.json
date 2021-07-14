@@ -1,0 +1,33 @@
+{
+    "bot_prefix": "!",
+
+    "bot_token": "ТОКЕН",
+
+    "bridges": {
+        "first_bridge": {
+            "channels": {
+                "859858952861909002": {
+                    "name": "VAULT SCP:SL",
+                    "webhook": "https://discord.com/api/webhooks/860259443459620884/yK5SVSdljbqfgQYXC2O2FWXa3IAwiku_Dn0Oh76YoyoB0kmhgleOjEEd8AMeq4ByV8gJ"
+                },
+                "859884660757364766": {
+                    "name": "VAULT",
+                    "webhook": "https://discord.com/api/webhooks/860259637659959307/cPaMdXC-ZyYb6ApKr9HwFCfzo3kiWHGVk-PHR8EU3-O3oJFIgf7sSMMYp1FqtPFvr5o0"
+                }
+            }
+        },
+        "second_bridge": {
+            "channels": {
+                "859858976261537802": {
+                    "name": "VAULT SCP:SL",
+                    "webhook": "https://discord.com/api/webhooks/860259585738407996/le59ZLP9Krw4up8qyacjlp8q6DfPGxXBeil-8vGMXlCH8VkWc0DIz2ilKiDc9nW9wY-c"
+                },
+                "859884685856604250": {
+                    "name": "VAULT",
+                    "webhook": "https://discord.com/api/webhooks/860259782379175966/H4Gppu9DZKZsJ_nzARhXWP6n_CeDCuJbLvhLQHcn0aSd-k70IfVyJReHZYPqNqsg1bG_"
+                }
+            }
+        }
+    }
+}
+
